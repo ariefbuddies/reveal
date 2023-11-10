@@ -10,7 +10,7 @@ transition = "slide"
 transition_speed = "fast"
 [reveal_hugo.templates.sunblind]
 class = "sunblind"
-background = "#000000"
+background = "#ffffff"
 +++
     
 ### Sewa Mobil Jogja IstimeWAh 🚧
