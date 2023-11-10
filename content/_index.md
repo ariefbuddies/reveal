@@ -12,6 +12,12 @@ transition_speed = "fast"
 class = "sunblind"
 background = "#07ef58"
 +++
+<script>
+Reveal.initialize({
+  disableLayout: false,
+  center: false  
+});
+</script>
 
 ### Sewa Mobil Jogja IstimeWAh 🚧
 
