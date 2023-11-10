@@ -11,13 +11,6 @@ transition_speed = "fast"
 [reveal_hugo.templates.sunblind]
 class = "sunblind"
 background = "#07ef58"
-<script>
-Reveal.initialize({
-  disableLayout: false,
-  center: false  
-});
-</script>
-
 +++
 
 ### Sewa Mobil Jogja IstimeWAh 🚧
