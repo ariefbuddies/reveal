@@ -3,13 +3,13 @@ title = "reveal-hugo"
 description = "A Hugo theme for creating Reveal.js presentations"
 outputs = ["Reveal"]
 [reveal_hugo]
-custom_theme = "reveal-hugo/themes/robot-lung.css"
+custom_theme = "reveal-hugo/themes/sunbilnd.css"
 margin = 0.2
 highlight_theme = "color-brewer"
 transition = "slide"
 transition_speed = "fast"
-[reveal_hugo.templates.robot-lung]
-class = "robot-lung"
+[reveal_hugo.templates.sunblind]
+class = "sunblind"
 background = "#000000"
 +++
     
