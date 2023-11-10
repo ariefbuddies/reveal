@@ -8,8 +8,8 @@ margin = 0.2
 highlight_theme = "color-brewer"
 transition = "slide"
 transition_speed = "fast"
-[reveal_hugo.templates.sunblind]
-class = "sunblind"
+[reveal_hugo.templates.robot-lung]
+class = "robot-lung"
 background = "#000000"
 +++
     
