@@ -8,7 +8,7 @@ margin = 0.2
 highlight_theme = "color-brewer"
 transition = "slide"
 transition_speed = "fast"
-[reveal_hugo.templates.hotpink]
+[reveal_hugo.templates.sunblind]
 class = "sunblind"
 background = "#FF4081"
 +++
