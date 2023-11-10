@@ -189,6 +189,7 @@ HARGA DI WEB INI BUKAN HARGA DI SAAT HIGH SEASON & HARGA BISA BERUBAH SEWAKTU WA
 
 <script>
 Reveal.initialize({
-  disableLayout: false
+  disableLayout: false,
+  center: false  
 });
 </script>
