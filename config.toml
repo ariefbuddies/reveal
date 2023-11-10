@@ -4,7 +4,7 @@ title = "A Hugo theme for creating Reveal.js presentations"
 disableKinds = ["sitemap", "RSS"]
 # theme = "."
 # themesDir = "../"
-theme = ["moon"]
+theme = ["reveal-hugo"]
 # uncomment for browsing at file:///
 # relativeURLs = true
 # uglyURLs = true
