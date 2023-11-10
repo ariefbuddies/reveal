@@ -1,10 +1,4 @@
 +++
-Reveal.initialize({
-    // Custom configuration
-    controlsTutorial: false,
-    controlsLayout: 'edges',
-    progress: true,
-});
 title = "reveal-hugo"
 description = "A Hugo theme for creating Reveal.js presentations"
 outputs = ["Reveal"]
@@ -18,7 +12,12 @@ transition_speed = "fast"
 class = "sunblind"
 background = "#07ef58"
 +++
-    
+Reveal.initialize({
+    // Custom configuration
+    controlsTutorial: false,
+    controlsLayout: 'edges',
+    progress: true,
+}); 
 ### Sewa Mobil Jogja IstimeWAh 🚧
 
 ### Daftar Mobil Bening Abadi Trans
