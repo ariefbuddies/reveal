@@ -1,6 +1,3 @@
-.reveal p:first-child { margin-top: 0px; }
-.reveal .slides > section { padding: 0px; }
-.reveal div.slides { position: absolute; top: -5%; }
 +++
 title = "reveal-hugo"
 description = "A Hugo theme for creating Reveal.js presentations"
