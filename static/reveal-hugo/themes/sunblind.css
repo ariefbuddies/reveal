@@ -32,9 +32,6 @@
 section.has-light-background, section.has-light-background h1, section.has-light-background h2, section.has-light-background h3, section.has-light-background h4, section.has-light-background h5, section.has-light-background h6 {
   color: #141414; }
 
-.reveal p:first-child { margin-top: 0px; }
-.reveal .slides > section { padding: 0px; }
-.reveal div.slides { position: absolute; top: -5%; }
 
 .reveal .controls {
   right: 50px;
@@ -141,6 +138,9 @@ body {
 
 .reveal h1 {
   text-shadow: none; }
+
+
+.reveal p:first-child { margin-top: 0px; }
 
 /*********************************************
  * OTHER
