@@ -11,13 +11,11 @@ transition_speed = "fast"
 [reveal_hugo.templates.sunblind]
 class = "sunblind"
 background = "#07ef58"
+.reveal p:first-child { margin-top: 0px; }
+.reveal .slides > section { padding: 0px; }
+.reveal div.slides { position: absolute; top: -5%; }
+
 +++
-<script>
-Reveal.initialize({
-  disableLayout: false,
-  center: false  
-});
-</script>
 
 ### Sewa Mobil Jogja IstimeWAh 🚧
 
