@@ -9,3 +9,6 @@
 .customjs {
     background-color: #504e9e
 }
+.reveal p:first-child { margin-top: 0px; }
+.reveal .slides > section { padding: 0px; }
+.reveal div.slides { position: absolute; top: -5%; }
